@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizLock</string>
+    <string name="button">Get info</string>
+    <string name="textView">Temporary</string>
+</resources>
